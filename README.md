@@ -4,6 +4,7 @@
 
 ##### NOW
 
+- 🔥 Developing URL shortener (Golang + Svelte + Postgres + Redis)
 - ✨ Working on Weather Station bridge to Wunderground;
 - 🚁 Indoor flying with whoop FPV drone;
 
