@@ -16,4 +16,4 @@
 - 🌱 Currently I'm learning **Spring Boot**
 - 💬 Ping me about **backend dev**, **golang**, **rails**, **docker**, **iot**
 - 📫 Reach me: [twitter.com/h00s](https://twitter.com/h00s)
-- ⚡️ Fun fact: I'm in ❤️ with FPV freestyle drone flying [youtube.com/@krunofpv](https://youtube.com/@krunofpv)
+- ⚡️ Fun fact: I'm in ❤️ with FPV freestyle drone flying [youtube.com/@krunofpv](https://youtube.com/@proxfpv)
