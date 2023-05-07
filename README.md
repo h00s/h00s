@@ -6,7 +6,7 @@
 
 - 🔥 Developing URL shortener (Golang + Svelte + Postgres + Redis)
 - ✨ Working on Weather Station bridge to Wunderground
-- 📋 Developing simple and effective pastebin
+- 📋 Developing simple and effective pastebin called BitBox
 - 🚁 Outdoor flying with my FPV drones
 
 ##### BIO
