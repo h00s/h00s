@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Bjelovar University od Applied Sciences**
+- 🏢 I'm currently working at **Bjelovar University of Applied Sciences**
 - ⚙️ I use daily: `.go`, `.rb`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **GoLang Community**
 - 🌱 Currently I'm learning **Spring Framework**
