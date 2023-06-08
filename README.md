@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer and DevOps working in Bjelovar, Croatia.
+#### I'm a Backend Developer and DevOps working in Bjelovar, Croatia.
 
 ##### NOW
 
