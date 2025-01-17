@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🏢 I work as a Vice Dean for Development at **Bjelovar University of Applied Sciences**
-- ⚙️ I use daily: `.go`, `.rb`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.go`, `.svelte`, `.ts`, `.js`, `.html`, `.css`, `.rb` 
 - 🌍 I'm mostly active within the **GoLang Community**
 - 🌱 Currently I'm working on a Go MVC framework
 - 💬 Ping me about **backend dev**, **devops**, **golang**, **svelte**, **docker**, **iot**
