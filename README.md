@@ -13,8 +13,8 @@
 
 - 🏢 I work as a Vice Dean for Development at **Bjelovar University of Applied Sciences**
 - ⚙️ I use daily: `.go`, `.svelte`, `.ts`, `.js`, `.html`, `.css`, `.rb` 
-- 🌍 I'm mostly active within the **GoLang Community**
-- 🌱 Currently I'm working on a Go MVC framework
+- 🌍 I'm mostly active within the **GoLang** and **Svelte** community
+- 🌱 Currently I'm working on a Go MVCS web framework
 - 💬 Ping me about **backend dev**, **devops**, **golang**, **svelte**, **docker**, **iot**
-- 📫 Reach me: [twitter.com/h00s](https://x.com/h00s)
+- 📫 Reach me: [x.com/h00s](https://x.com/h00s)
 - ⚡️ Fun fact: I'm in ❤️ with FPV freestyle drone flying [youtube.com/@proxfpv](https://youtube.com/@proxfpv)
