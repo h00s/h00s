@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Fullstack Developer and DevOps working in Bjelovar, Croatia.
+#### I'm a Fullstack Developer and DevOps working in Daruvar, Croatia.
 
 ##### NOW
 
@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🏢 I work as a Vice Dean for Development at **Bjelovar University of Applied Sciences**
+- 🏢 I work as a Fullstack Developer and Devops engineer at **Binel Ltd.**
 - ⚙️ I use daily: `.go`, `.svelte`, `.ts`, `.js`, `.html`, `.css`, `.rb` 
 - 🌍 I'm mostly active within the **GoLang** and **Svelte** community
 - 🌱 Currently I'm working on a Go MVCS web framework
